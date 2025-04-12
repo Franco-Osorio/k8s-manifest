@@ -9,5 +9,5 @@ spec:
   accessModes:
     - ReadWriteOnce
   hostPath:
-    path: C:\Users\Usuario\Desktop\K8S\0311AT\web\static-website
+    path: /mnt/static-website
     type: Directory
